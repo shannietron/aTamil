@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TamilActivity!</string>
+    <string name="app_name">Tamil</string>
+    <string name="Btn_Next">Next</string>
+    <string name="Btn_Back">Back</string>
+</resources>
